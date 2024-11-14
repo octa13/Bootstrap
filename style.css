@@ -1,0 +1,196 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    background-color: rgb(230, 230, 230);
+   
+   
+}
+
+H1{
+    color: white;
+}
+
+header{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+
+}
+
+
+.menu-fixed {
+	position:fixed;
+	z-index:1000;
+	top:0;
+	/*max-width:1000px;*/
+	left:0;
+	width:100%;
+	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+}
+
+
+
+
+
+.face{
+    height: 20px;
+    width: 20px;
+  color: white;
+  margin: 0 3px;
+ 
+
+}
+
+
+
+.hot{
+    text-align: center;
+}
+
+h2{
+
+    text-align: center;
+}
+
+
+
+.btn:hover {
+    color: white;
+    background-color:black;
+    border: none;
+}
+
+.btn{
+    border-color: black;
+    color: black;
+}
+
+.nav-item:hover{
+   font-weight: 500;
+   color: rgb(112, 3, 3);
+}
+
+
+
+
+
+
+
+.caburna{
+    background-color: rgb(122, 122, 122);
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+
+
+.t1{
+    width: 500px;
+  
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+ 
+    height: 30px;
+   
+    color: rgb(199, 199, 199);
+  
+   
+}
+
+
+
+
+
+.t2{
+    width: 200px;
+ 
+   margin-left: 20px;
+   display: flex;
+
+
+   height: 30px;
+
+  
+}
+
+.t3{
+    width: 220px;
+  
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+   
+}
+
+
+
+.s{
+    text-decoration: none;
+    color: rgb(199, 199, 199);
+    padding: 0 10px;
+   
+   
+    
+}
+
+
+footer{
+
+    background-color: black;
+   
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+
+}
+
+p{
+
+    text-align: center;
+    color: rgb(224, 224, 224);
+}
+
+.hot{
+
+    color: black;
+}
+
+.card-text{
+    color: black;
+}
+
+
+.card-group{
+    
+   
+    width: 90%;
+    margin: 0 65px;
+   
+}
+
+
+.card{
+   
+ 
+    margin:  0 50px;
+}
+
+.carta{
+    width: 100%;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
